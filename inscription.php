@@ -131,7 +131,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <span><?php echo $last_name_err; ?></span>
                 </div>
                 <div class="form-group">
-                    <label>Email</label>
+                    <label>Emailll</label>
                     <input type="email" name="email" value="<?php echo $email; ?>">
                     <span><?php echo $email_err; ?></span>
                 </div>
